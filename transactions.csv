@@ -1,0 +1,10 @@
+id,date,type,category,description,amount
+1,2026-07-01,expense,Video Games,GTA 6,300.0
+2,2026-07-01,income,Salary,July salary,14000.0
+3,2026-07-03,expense,Trasnport,Fuel,260.0
+4,2026-07-04,expense,Food,Grocery,500.0
+5,2026-08-01,expense,Entertainment,Movie,100.0
+6,2026-08-01,income,Salary,August salary,14000.0
+7,2026-08-05,expense,Transport,Fuel,500.0
+8,2026-09-01,income,Salary,September salary,14000.0
+9,2026-09-02,expense,Food,Groceries,500.0
